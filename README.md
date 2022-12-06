@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Web/Application development projects and testing using JavaScript |REACTjs | NODEjs | NEXTjs | CYPRESS.io
 - 🌱 View my work on [https://](https://aniekangedet.netlify.app/)
 - 📫 How to reach me aniekan.g.edet@gmail.com
-- 📫 https://www.linkedin.com/in/aniekan-edet-03521a96
+- 📫 [https://](https://www.linkedin.com/in/aniekan-edet-03521a96)
 
 <!---
 agedet/agedet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
