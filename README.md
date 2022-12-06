@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @agedet
-- 👀 I’m interested in web development and testing
-- 🌱 I’m currently learning and working on <>Html</>, CSS{}, Javascript, React, Nextjs and nodejs based projects.
-- 💞️ I’m looking to collaborate on projects and testing
-- 🌱 View my work on https://www.behance.net/aniekanedet2
+- 👀 I’m interested in Web/Application development and testing
+- 🌱 I’m currently building on <>Html</>, CSS{}, Javascript, React, Nextjs and nodejs based projects.
+- 🌱 I’m currently learning Software Engineering with ALX {Cohort 9} which will span from August 2022 till November 2023
+- 💞️ I’m looking to collaborate on Web/Application development projects and testing using JavaScript |REACTjs | NODEjs | NEXTjs | CYPRESS.io
+- 🌱 View my work on [https://](https://aniekangedet.netlify.app/)
 - 📫 How to reach me aniekan.g.edet@gmail.com
+- 📫 https://www.linkedin.com/in/aniekan-edet-03521a96
 
 <!---
 agedet/agedet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
