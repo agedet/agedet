@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniekan George Edet @agedet
 - 👀 I’m interested in Web/Application development and testing
 - 🌱 I’m currently building on <>Html</>, CSS{}, Javascript, React, Nextjs and nodejs based projects.
-- 💞️ I’m looking to collaborate on Web/Application development projects and testing using JavaScript |REACTjs | NODEjs | NEXTjs | CYPRESS.io
+- 💞️ I’m looking to collaborate on Web/Application development projects and testing using JavaScript | REACTjs | NODEjs | NEXTjs | CYPRESS.io
 - 🌱 View my work on [https://](https://aniekangedet.netlify.app/)
 
 Tools I work with 🔩⛏⚒
@@ -12,10 +12,10 @@ Tools I work with 🔩⛏⚒
  
 
 Get in touch 📱 ☎ 📫
-Twitter: https://twitter.com/agedet9060 💬
-Personal Website: https://aniekangedet.netlify.app 🌍
-GMAIL: aniekan.g.edet@gmail.com 📫
-Linkedin : [https://](https://www.linkedin.com/in/aniekan-edet-03521a96)
+- Twitter: https://twitter.com/agedet9060 💬
+- Personal Website: https://aniekangedet.netlify.app 🌍
+- GMAIL: aniekan.g.edet@gmail.com 📫
+- Linkedin : [https://](https://www.linkedin.com/in/aniekan-edet-03521a96)
 
 <!---
 agedet/agedet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
